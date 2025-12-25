@@ -1,7 +1,7 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Muhammad Kurniawan Dwi Hariyadi**.<br>
-Saya seorang Alumni **Sistem Informasi** di **Universitas Trunojoyo Madura**.<br>
+Saya seorang alumni mahasiswa **Sistem Informasi** di **Universitas Trunojoyo Madura**.<br>
 
 <br />
 
