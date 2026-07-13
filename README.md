@@ -1,4 +1,4 @@
-<img width="576" height="594" alt="image" src="https://github.com/user-attachments/assets/10f49fdb-818a-4758-9bcf-bff9fff8bf78" /># Halo semua! 
+# Halo semua! 
 
 Perkenalkan nama saya **Muhammad Kurniawan Dwi Hariyadi**.<br>
 Saya seorang alumni mahasiswa **Sistem Informasi** di **Universitas Trunojoyo Madura**.<br>
