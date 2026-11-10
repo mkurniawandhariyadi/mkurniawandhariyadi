@@ -2,6 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Kurniawan Dwi Hariyadi**.<br>
 Saya seorang alumni mahasiswa **Sistem Informasi** di **Universitas Trunojoyo Madura**.<br>
+Bangkit batch 6 2024 Learning Path Mobile Development Distinction Graduated
 
 <br />
 
